@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background-color: white;
+    width: 338px;
+    height: 360px;
+    border-radius: 20px;
+}
+img{
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 320px;
+    height: 200px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin-top: 20px;
+    margin-left: 8px;
+}
+p{
+    margin-top: 20px;
+    margin-left: 8px;
+}
